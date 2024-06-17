@@ -18,8 +18,4 @@
 
 ## Feedback
 
-Your feedback is invaluable! If you encounter any bugs or issues, please let me know by reaching out to me on Discord: [@rbxm](https://discord.com/users/692509166706884659).
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests to help enhance this theme.
+Feedbacks are welcome! If you encounter any bugs or issues, please let me know by reaching out to me on Discord: [@rbxm](https://discord.com/users/692509166706884659) or by creating an issue on the repository.
