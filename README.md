@@ -2,19 +2,19 @@
 
 ### Bloxstrap
 
-1. Download the latest `Bloxpuccin.zip` release from the [GitHub Releases page](https://github.com/roblox-model/Bloxpuccin/releases/latest).
+1. Download the latest `Bloxpuccin.zip` file by clicking the "Code" button on the repository and selecting [Download ZIP](https://github.com/roblox-model/Bloxpuccin/archive/refs/heads/main.zip).
 
 2. Extract the downloaded `Bloxpuccin.zip` file to the `%localappdata%\Bloxstrap\Modifications` directory. 
 
-3. Open Roblox and enjoy the Bloxpuccin theme !
+3. Open Roblox and enjoy the Bloxpuccin theme!
 
 ### Vanilla Roblox
 
-1. Download the latest `Bloxpuccin.zip` release from the [GitHub Releases page](https://github.com/roblox-model/Bloxpuccin/releases/latest).
+1. Download the latest `Bloxpuccin.zip` file by clicking the "Code" button on the repository and selecting [Download ZIP](https://github.com/roblox-model/Bloxpuccin/archive/refs/heads/main.zip).
 
 2. Extract the downloaded `Bloxpuccin.zip` file to the `%localappdata%\Roblox\Versions` directory, in the folder for the latest Roblox version.
    
-3. Launch Roblox, and enjoy Bloxpuccin !
+3. Launch Roblox, and enjoy Bloxpuccin!
 
 ## Feedback
 
