@@ -1,0 +1,17 @@
+{
+  "name": "Fondamento",
+  "faces": [
+    {
+      "name": "Regular",
+      "weight": 400,
+      "style": "normal",
+      "assetId": "rbxasset://fonts/CustomFont.ttf"
+    },
+    {
+      "name": "Italic",
+      "weight": 400,
+      "style": "italic",
+      "assetId": "rbxasset://fonts/CustomFont.ttf"
+    }
+  ]
+}
